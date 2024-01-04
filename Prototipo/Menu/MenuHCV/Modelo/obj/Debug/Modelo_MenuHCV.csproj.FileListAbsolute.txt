@@ -4,3 +4,9 @@ C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modu
 C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
 C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Menu\MenuHCV\Modelo\bin\Debug\Modelo_MenuHCV.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Menu\MenuHCV\Modelo\obj\Debug\Modelo_MenuHCV.pdb
