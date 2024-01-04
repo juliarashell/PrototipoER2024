@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Modelo\bin\Debug\Modelo_HoteleriaMenu.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Modelo\bin\Debug\Modelo_HoteleriaMenu.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Modelo\obj\Debug\Modelo_HoteleriaMenu.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Modelo\obj\Debug\Modelo_HoteleriaMenu.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Modelo\obj\Debug\Modelo_HoteleriaMenu.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Modelo\obj\Debug\Modelo_HoteleriaMenu.csproj.AssemblyReference.cache
