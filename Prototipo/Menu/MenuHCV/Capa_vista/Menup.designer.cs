@@ -101,7 +101,7 @@ namespace MenuHCV
             this.btnHoteleria.Padding = new System.Windows.Forms.Padding(68, 0, 0, 0);
             this.btnHoteleria.Size = new System.Drawing.Size(303, 38);
             this.btnHoteleria.TabIndex = 18;
-            this.btnHoteleria.Text = "CiNE FUNCIONES";
+            this.btnHoteleria.Text = "CINE FUNCIONES";
             this.btnHoteleria.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnHoteleria.UseVisualStyleBackColor = false;
             this.btnHoteleria.Click += new System.EventHandler(this.btnHoteleria_Click);
