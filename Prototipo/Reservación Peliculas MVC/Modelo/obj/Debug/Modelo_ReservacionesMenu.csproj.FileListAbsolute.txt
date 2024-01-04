@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Modelo\bin\Debug\Modelo_HoteleriaMenu.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Modelo\bin\Debug\Modelo_HoteleriaMenu.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Modelo\obj\Debug\Modelo_ReservacionesMenu.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Modelo\obj\Debug\Modelo_HoteleriaMenu.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Modelo\obj\Debug\Modelo_HoteleriaMenu.pdb

@@ -55,9 +55,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Modelo\Modelo_AsignacionMenu.csproj">
+    <ProjectReference Include="..\Modelo\Modelo_ReservacionesMenu.csproj">
       <Project>{4786eb0d-2cc7-4f95-91c0-25d7095018b4}</Project>
-      <Name>Modelo_AsignacionMenu</Name>
+      <Name>Modelo_ReservacionesMenu</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

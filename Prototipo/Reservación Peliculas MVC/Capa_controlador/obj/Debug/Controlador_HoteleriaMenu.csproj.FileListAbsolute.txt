@@ -8,3 +8,13 @@ C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modu
 C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.csproj.CopyComplete
 C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.dll
 C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\proyectoads22023\Codigo\Modulos\Hoteleria\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\bin\Debug\Controlador_HoteleriaMenu.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\bin\Debug\Controlador_HoteleriaMenu.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\bin\Debug\eCryptography.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\bin\Debug\Modelo_HoteleriaMenu.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\bin\Debug\Modelo_HoteleriaMenu.pdb
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.dll
+C:\Users\USUARIO\Desktop\VIII Semestre\Análisis II\PrototipoER2024\Prototipo\Reservación Peliculas MVC\Capa_controlador\obj\Debug\Controlador_HoteleriaMenu.pdb
